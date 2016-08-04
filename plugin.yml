@@ -1,0 +1,12 @@
+name: TwDungeonEX
+main: io.Jerry.Dungeon.Main
+version: 2.0.2
+author: Jerry
+description: Party Game plugin.
+commands:
+    Party:
+      description: Utilize the plugin
+      usage: You don't have permission
+    Dun:
+      description: Utilize the plugin
+      usage: You don't have permission
